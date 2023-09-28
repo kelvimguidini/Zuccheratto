@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Zuccheratto(1)", "F:\Zuccheratto\", "{BED70369-38D0-4F73-8AF1-1FAA5B44F488}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50179"
+		Debug.AspNetCompiler.PhysicalPath = "F:\Zuccheratto\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50179\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50179"
+		Release.AspNetCompiler.PhysicalPath = "F:\Zuccheratto\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50179\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50179"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50179"
+		Debug.AspNetCompiler.PhysicalPath = "F:\Zuccheratto\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50179\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50179"
+		Release.AspNetCompiler.PhysicalPath = "F:\Zuccheratto\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50179\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50179"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED70369-38D0-4F73-8AF1-1FAA5B44F488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED70369-38D0-4F73-8AF1-1FAA5B44F488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69806B0-DF44-4EEB-9F57-9B4CAED9B274}
+	EndGlobalSection
+EndGlobal
